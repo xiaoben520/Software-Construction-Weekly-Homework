@@ -1,7 +1,0 @@
-C:\Users\82028\Desktop\软构大作业仓库\myhomework\Software-Construction-Weekly-Homework\第1次作业\代码和运行文件\sghw1.2-3.6\sghw1.2-3.6\bin\Debug\sghw1.2-3.6.exe.config
-C:\Users\82028\Desktop\软构大作业仓库\myhomework\Software-Construction-Weekly-Homework\第1次作业\代码和运行文件\sghw1.2-3.6\sghw1.2-3.6\bin\Debug\sghw1.2-3.6.exe
-C:\Users\82028\Desktop\软构大作业仓库\myhomework\Software-Construction-Weekly-Homework\第1次作业\代码和运行文件\sghw1.2-3.6\sghw1.2-3.6\bin\Debug\sghw1.2-3.6.pdb
-C:\Users\82028\Desktop\软构大作业仓库\myhomework\Software-Construction-Weekly-Homework\第1次作业\代码和运行文件\sghw1.2-3.6\sghw1.2-3.6\obj\Debug\sghw1.2-3.6.csproj.AssemblyReference.cache
-C:\Users\82028\Desktop\软构大作业仓库\myhomework\Software-Construction-Weekly-Homework\第1次作业\代码和运行文件\sghw1.2-3.6\sghw1.2-3.6\obj\Debug\sghw1.2-3.6.csproj.CoreCompileInputs.cache
-C:\Users\82028\Desktop\软构大作业仓库\myhomework\Software-Construction-Weekly-Homework\第1次作业\代码和运行文件\sghw1.2-3.6\sghw1.2-3.6\obj\Debug\sghw1.2-3.6.exe
-C:\Users\82028\Desktop\软构大作业仓库\myhomework\Software-Construction-Weekly-Homework\第1次作业\代码和运行文件\sghw1.2-3.6\sghw1.2-3.6\obj\Debug\sghw1.2-3.6.pdb
